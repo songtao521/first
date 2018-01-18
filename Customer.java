@@ -17,6 +17,7 @@ public class Customer {
 	private String cust_zipcode;
 	private String cust_address;
 	private Date cust_createtime;
+	private String a;
 
 
 	public Long getCust_id() {
